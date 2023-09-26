@@ -1,0 +1,15 @@
+h1, p {    
+  font-family: serif;
+  color:       black;
+}
+span { font-size :2.0em;     color : rgb(238, 16, 16); }
+
+em { font-size :1.5em;     color : rgb(25, 25, 161); }
+h1 {    
+  border-bottom: 1px solid gray;
+  color:       rgb(85, 18, 18);
+}
+body {
+  font-size : large;
+  background-color: white;
+} 
